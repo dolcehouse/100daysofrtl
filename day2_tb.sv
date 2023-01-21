@@ -1,6 +1,4 @@
 
-// Code your testbench here
-// or browse Examples
 module day2_tb ();
 
   logic      clk;
